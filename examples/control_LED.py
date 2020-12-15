@@ -9,8 +9,8 @@ GPIO.setup(4,GPIO.OUT) #led
 
 # change this to the values from MCS web console
 DEVICE_INFO = {
-    'device_id' : 'DPs1WOl0',
-    'device_key' : 'z3ass8w6K0jwGp0o'
+    'device_id' : 'DIr00Kmw',
+    'device_key' : 'zB80IH8PthNxVFRA'
 }
 
 # change 'INFO' to 'WARNING' to filter info messages
